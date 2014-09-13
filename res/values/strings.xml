@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Enter a airport symbol, press button to get airport info</string>
+    <string name="app_name">Bat Factory</string>
+    <string name="airport_hint">Airport symbol</string>
+    <string name="default_airport">SAN</string>
+    <string name="get_airport_info">Get Airport Info</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="cash_string">Cash</string>
+    <string name="buy_text">Buy</string>
+    <string name="cut_text">Cut</string>
+    <string name="log_string">"Logs: "</string>
+    <string name="blank_string">Blanks:</string>
+    <string name="turn_button_text">Turn</string>
+    <string name="turning_text">Turnings:</string>
+    <string name="finish_text">Wax</string>
+    <string name="bats_text">Bats:</string>
+    <string name="sell_text">Sell</string>
+    <string name="view_summary_string">Text View Summary</string>
+
+</resources>
